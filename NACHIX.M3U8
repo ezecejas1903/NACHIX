@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1620422398~exp=1620598798~acl=/i/canal13santafe_1@751190/*~hmac=cce116ba321867cc7dfb5dcc2a5942633e3b049c45f593879051da0168916bd5
